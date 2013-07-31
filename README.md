@@ -1,4 +1,1 @@
-foundationsclass
-================
-
-Summit class with Matthew
+# Want to help?
